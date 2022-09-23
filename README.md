@@ -1,6 +1,7 @@
 # Ejemplo Parcial Práctico 1
 Nombre: Lina Ojeda
 Codigo: 202112324
+Correo: l.ojedaa@uniandes.edu.co
 
 ## Instrucciones
 
